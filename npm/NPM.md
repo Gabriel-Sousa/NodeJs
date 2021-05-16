@@ -1,7 +1,7 @@
 ## NPM
 ---
 - verificar se temos o npm instalado `npm -v`
-- `npm init` mostra no console configurações para o pacote
+- `npm init` inicia o `package.json` mostra no console configurações para o pacote
 - `npm init -y` ele no console da "yes" para tudo, e cria um arquivo 'package.jon' sem precisa configura-lo e no arquivo podemos modificar as configurações no vs code em vez do console
 
 ## Package.jon
